@@ -1,7 +1,7 @@
 {
-  "name": "jquery-demo",
+  "name": "practica2-jquery-clases",
   "version": "1.0.0",
-  "description": "Demo de JQuery",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
